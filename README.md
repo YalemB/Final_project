@@ -1,6 +1,6 @@
 # Final-Project
 
-**TRADO WEBSTOR PROJECT** 
+**TRADO WEBSTORE PROJECT** 
 
 The purpose of the store is to provide a unique platform in its solution anonymously.
 The store caters to all users: retailers, sellers, shoppers, truckers.
